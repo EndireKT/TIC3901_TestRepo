@@ -7,6 +7,7 @@ public class fileD {
         System.out.println(HW);
         System.out.println(HW);
         System.out.println(HW);
+        String HW = 'Hello World";
         System.out.println(HW);
         System.out.println(HW);
         System.out.println(HW);
